@@ -1,3 +1,8 @@
+---
+title: Two
+id: 2
+---
+
 # Two
 
 __the second note__
