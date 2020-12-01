@@ -9,4 +9,4 @@ Hi Roy.
 
 ## Header
 
-- [Two](/notes/two)
+- [[two]]
