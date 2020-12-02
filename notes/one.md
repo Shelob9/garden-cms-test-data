@@ -1,9 +1,9 @@
 ---
 title: One1
-,slug: one
-
+slug: one
 ---
- # One
+
+# One
 
 Hi Roy.
 
