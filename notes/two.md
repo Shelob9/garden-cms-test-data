@@ -1,6 +1,6 @@
 ---
 title: Two
-id: 2
+slug: two
 ---
 
 # Two
