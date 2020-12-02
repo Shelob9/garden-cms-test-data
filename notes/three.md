@@ -1,6 +1,6 @@
 ---
 title: Three
-id: 3
+slug: three
 ---
 
 # Threee
