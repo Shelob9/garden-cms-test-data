@@ -1,9 +1,9 @@
 ---
-title: One
-id: 1
----
+title: One1
+,slug: one
 
-# One
+---
+ # One
 
 Hi Roy.
 
