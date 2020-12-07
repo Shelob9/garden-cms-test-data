@@ -1,8 +1,8 @@
 ---
-title: Threer1 
+title: Threer1f 
 slug: three
 ---
-  #     Threee
+   #       Threee
 
 __the third note__
 
