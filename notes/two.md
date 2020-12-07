@@ -1,8 +1,8 @@
 ---
-title: Twof 
+title: Twofr 
 slug: two
 ---
- #   Two
+  #     Two
 
 __the second note__
 
