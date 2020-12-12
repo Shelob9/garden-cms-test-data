@@ -34,7 +34,7 @@ The goal is to make this a "click buttons, fill out some fields, and you're done
 
 ### What Needs Done
 
-This is a functional prototype, to get to version one:
+This is a functional prototype, to get to a [first version](https://github.com/Shelob9/digitial-garden-builder/milestone/1)
 
 - [ ] Installation
   - [ ] Template repo
@@ -43,3 +43,9 @@ This is a functional prototype, to get to version one:
 - [ ] Deployment
   - [ ] Allow digital garden sites to be generated as static HTML.
   - [ ] Deploy digital garden to Github pages using builder.
+  
+  ### Want To Help?
+  
+  Awesome!
+  
+  If you want to help [fix an open issue](https://github.com/Shelob9/digitial-garden-builder/issues), add a feature, fix a bug or make it look nicer, that is awesome. You can [submit a pull request](https://github.com/Shelob9/digitial-garden-builder/pulls). If you have questions, ask in an issue or [@ me on Twitter](https://twitter.com/josh412).
