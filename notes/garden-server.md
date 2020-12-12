@@ -9,10 +9,10 @@ Each Digital Garden, which is deployed as a static HTML site -- see [[garden-cli
 
 Reasons you may want to do this:
 
-1. You're contributing to the development of this open source project.
+- You're contributing to the development of this open source project.
   - Thank you!
   - The simplest way to get started is with [gitpod](https://gitpod.io/#https://github.com/Shelob9/digitial-garden-builder).
-1. You want to add your features.
+- You want to add your own features.
   - Awesome. It's a [nextjs](https://nextjs.org/) app.
   - [It would be cool to extract the routes to a seperate package, you could use in a Next.js app.](https://github.com/Shelob9/garden-cms-test-data/issues/11)
   
