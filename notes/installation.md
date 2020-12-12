@@ -14,6 +14,6 @@ The plan is to have at least two options:
   - This will require a Github account.
   - Support for self-hosted git, such as [Gitea](https://gitea.io/) or storing data on a [IPFS](https://ipfs.io/) or similar would be great.
 - Self-hosted
-  - Most likely this means running your own [[notes-server]].
+  - Most likely this means running your own [[garden-server]].
   
   
