@@ -16,14 +16,9 @@ A digital garden is a public notebook you can use to grow your ideas from a seed
 - Stores your notes
   - Edit in markdown with wiki-style double bracket links between notes.
 - Visualizes the links between them
-  - [ ] Soon...
 - Collaborate with others, track contributions and revisions.
-  - It saves the data in a git repo.
-  - [ ] Needs URL
 - Collects tweets, links, quotes and embeds in notes
-  - 
-- Publish notes, when they are grown
-  - [ ] ?
+- Publish notes, when they are grown.
   
 
 ## How Does It Work?
@@ -32,9 +27,10 @@ It does work. You can [read source](https://github.com/Shelob9/garden-cms)
 
 ### Install
 
-[[installation]]
+- [[installation]]
+- [[developer]] documentation.
 
-The goal is to make this a "click buttons, fill out some fields, and you're done setup process." For now, probably don't install this, but [see the README](https://github.com/Shelob9/garden-cms/blob/main/README.md) for how.
+The goal is to make this a "click buttons, fill out some fields, and you're done setup process." For now, probably don't install this, but [see the README](https://github.com/Shelob9/garden-cms/blob/main/README.md) for how. 
 
 ### What Needs Done
 
