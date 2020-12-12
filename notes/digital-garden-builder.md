@@ -21,9 +21,12 @@ A digital garden is a public notebook you can use to grow your ideas from a seed
 - Publish notes, when they are grown.
   
 
-## How Does It Work?
+## Plant Your Own Garden
 
-It does work. You can [read source](https://github.com/Shelob9/garden-cms)
+Right now, this is a mostly functional prototype.
+
+- [Request your own digital garden](https://docs.google.com/forms/d/e/1FAIpQLSceXRwG_NQ-5sy1lcP613uS_BH2H1JqhuGOzOWbai7XClK3Cw/viewform)
+- [View source](https://github.com/Shelob9/garden-cms)
 
 ### Install
 
@@ -34,7 +37,7 @@ The goal is to make this a "click buttons, fill out some fields, and you're done
 
 ### What Needs Done
 
-This is a functional prototype, to get to a [first version](https://github.com/Shelob9/digitial-garden-builder/milestone/1)
+To get to a [first version](https://github.com/Shelob9/digitial-garden-builder/milestone/1)
 
 - [ ] Installation
   - [ ] Template repo
