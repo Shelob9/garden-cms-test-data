@@ -44,8 +44,8 @@ This is a functional prototype, to get to a [first version](https://github.com/S
   - [ ] Allow digital garden sites to be generated as static HTML.
   - [ ] Deploy digital garden to Github pages using builder.
   
-  ### Want To Help?
+### Want To Help?
+
+Awesome!
   
-  Awesome!
-  
-  If you want to help [fix an open issue](https://github.com/Shelob9/digitial-garden-builder/issues), add a feature, fix a bug or make it look nicer, that is awesome. You can [submit a pull request](https://github.com/Shelob9/digitial-garden-builder/pulls). If you have questions, ask in an issue or [@ me on Twitter](https://twitter.com/josh412).
+If you want to help [fix an open issue](https://github.com/Shelob9/digitial-garden-builder/issues), add a feature, fix a bug or make it look nicer, that is awesome. You can [submit a pull request](https://github.com/Shelob9/digitial-garden-builder/pulls). If you have questions, ask in an issue or [@ me on Twitter](https://twitter.com/josh412).
