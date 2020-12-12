@@ -9,7 +9,8 @@ The Digital Garden Builder is a Serverless Node.js application, that uses git as
 
 - [Github Repository](https://github.com/Shelob9/digitial-garden-builder)
 
- ## How It Works
+
+## How It Works
  
  __BTW__ This section is about how this will work in a week or so, not how it currently works. Right now, both the docs site and the server are running on Vercel. There is no static export yet. Installation is not working yet either.
  
@@ -20,3 +21,24 @@ The Digital Garden Builder is a Serverless Node.js application, that uses git as
   - These sites are generated using the [[garden-client]], which is a [React]() app built with the [NextJS](https://nextjs.org) framework.
  - Digital Garden Server - CRUD API that uses Github, specifically the content repo mentioned above, for storage. Also it has the UI for installation and login.
   - The [[garden-server]] is also a React/ NextJS app. [DigitalGardenBuilder.app](https://DigitalGardenBuilder.app) is deployed using [Vercel](https://vercel.com/). You could probably use Netlify or Serverless Framework.
+
+## Installing For Development
+
+The simplest way to get started is with [gitpod](https://gitpod.io/#https://github.com/Shelob9/digitial-garden-builder).
+
+### Develop Locally
+
+- Clone and install:
+ - `git clone git@github.com:Shelob9/digitial-garden-builder.git`
+ - `cd digitial-garden-builder`
+ - `yarn`
+- Read the READMEs for [client](https://github.com/Shelob9/digitial-garden-builder/blob/main/client/README.md) and [server](https://github.com/Shelob9/digitial-garden-builder/blob/main/server/README.md) and set the environment variables for both servers.
+- Start servers
+ - `yarn dev`
+- Run tests
+ - `yarn test`
+- See in broweser:
+ - Client [localhost:3202](https://localhost:3202)
+ - Server [localhost:3000](https://localhost:3000)
+
+### Develop With Gitpod
