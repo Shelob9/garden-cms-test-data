@@ -27,6 +27,7 @@ Right now, this is a mostly functional prototype.
 
 - [Request your own digital garden](https://docs.google.com/forms/d/e/1FAIpQLSceXRwG_NQ-5sy1lcP613uS_BH2H1JqhuGOzOWbai7XClK3Cw/viewform)
 - [View source](https://github.com/Shelob9/garden-cms)
+- [[usage]]
 
 ### Install
 
