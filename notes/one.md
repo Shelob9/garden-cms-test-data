@@ -1,12 +1,12 @@
 ---
-title: Onetr 
+title: One 
 slug: one
 ---
- ---
+  ---
 title: Onet 
 slug: one
 ---
-       #     One
+       #      One
 
 Hi Roy. 
 
