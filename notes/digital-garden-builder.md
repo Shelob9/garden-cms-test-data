@@ -2,11 +2,10 @@
 title: Digital Garden Builder 
 slug: digital-garden-builder
 ---
+ A no code, multi-player digital garden builder.
 
-A no code, multi-player digital garden builder.
 
-
-## What Is A Digital Garden?
+# # What Is A Digital Garden?
 
 A digital garden is a public notebook you can use to grow your ideas from a seed to a full grown essay. Learn more from the [[digital-gardens]] note.
  
@@ -36,17 +35,6 @@ Right now, this is a mostly functional prototype.
 
 The goal is to make this a "click buttons, fill out some fields, and you're done setup process." For now, probably don't install this, but [see the README](https://github.com/Shelob9/garden-cms/blob/main/README.md) for how. 
 
-### What Needs Done
-
-To get to a [first version](https://github.com/Shelob9/digitial-garden-builder/milestone/1)
-
-- [ ] Installation
-  - [ ] Template repo
-  - [ ] Install UI
-  - [ ] Create content repo automation
-- [ ] Deployment
-  - [ ] Allow digital garden sites to be generated as static HTML.
-  - [ ] Deploy digital garden to Github pages using builder.
   
 ### Want To Help?
 
