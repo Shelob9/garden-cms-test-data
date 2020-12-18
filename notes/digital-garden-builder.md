@@ -2,12 +2,11 @@
 title: Digital Garden Builder 
 slug: digital-garden-builder
 ---
-A no code, multi-player digital garden builder.
+ A no code, multi-player digital garden builder.
 
 ## What Is A Digital Garden?
 
 A digital garden is a public notebook you can use to grow your ideas from a seed to a full grown essay. Learn more from the [[digital-gardens]] note.
- 
 
 ## What Is The Digital Garden Builder?
 
@@ -21,7 +20,7 @@ A digital garden is a public notebook you can use to grow your ideas from a seed
 
 ## Plant Your Own Garden
 
-Right now, this is a mostly functional prototype.
+Almost ready.
 
 - [Request your own digital garden](https://docs.google.com/forms/d/e/1FAIpQLSceXRwG_NQ-5sy1lcP613uS_BH2H1JqhuGOzOWbai7XClK3Cw/viewform)
 - [View source](https://github.com/Shelob9/garden-cms)
