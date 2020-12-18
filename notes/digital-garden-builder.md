@@ -2,7 +2,7 @@
 title: Digital Garden Builder 
 slug: digital-garden-builder
 ---
- A no code, multi-player digital garden builder.
+  A no code, multi-player digital garden builder.
 
 
 ## What Is A Digital Garden?
@@ -35,9 +35,9 @@ Right now, this is a mostly functional prototype.
 
 The goal is to make this a "click buttons, fill out some fields, and you're done setup process." For now, probably don't install this, but [see the README](https://github.com/Shelob9/garden-cms/blob/main/README.md) for how. 
 
-  
+
 ### Want To Help?
 
 Awesome!
   
-If you want to help [fix an open issue](https://github.com/Shelob9/digitial-garden-builder/issues), add a feature, fix a bug or make it look nicer, that is awesome. You can [submit a pull request](https://github.com/Shelob9/digitial-garden-builder/pulls). If you have questions, ask in an issue or [@ me on Twitter](https://twitter.com/josh412).
+If you want to help [fix an open issue](https://github.com/Shelob9/digitial-garden-builder/issues), add a feature, fix a bug or make it look nicer, that is awesome. You can [submit a pull request](https://github.com/Shelob9/digitial-garden-builder/pulls). If you have questions, ask in an issue or [@ me on Twitter](https://twitter.com/josh412). Thank you.
