@@ -2,11 +2,7 @@
 title: One 
 slug: one
 ---
-  ---
-title: Onet 
-slug: one
----
-       #      One
+
 
 Hi Roy. 
 
