@@ -1,9 +1,8 @@
 ---
-title: Digital Garden Builder Developer Documentation
+title: Digital Garden Builder Developer Documentation 
 slug: developer
 ---
-
-This is the overview of developer-facing documentation for the Digital Garden Builder. You will not need to be a developer or to read these docs to use the Digital Garden Builder. Please give me a week or two.
+ This is the overview of developer-facing documentation for the Digital Garden Builder. You will not need to be a developer or to read these docs to use the Digital Garden Builder. Please give me a week or two.
 
 The Digital Garden Builder is a Serverless Node.js application, that uses git as a data store. It is free and open-source software. 
 
@@ -17,6 +16,7 @@ The Digital Garden Builder is a Serverless Node.js application, that uses git as
  Each digital garden has three parts:
  
  - Content Repo - A git repository with all of the content for the notes, the configuration data and the Github actions for one digital garden.
+    - [The Template](https://github.com/Shelob9/garden-builder-content-template)
  - Digital Garden Site - The website for one digital garden. Hosted using Github pages, by default.
   - These sites are generated using the [[garden-client]], which is a [React]() app built with the [NextJS](https://nextjs.org) framework.
  - Digital Garden Server - CRUD API that uses Github, specifically the content repo mentioned above, for storage. Also it has the UI for installation and login.
@@ -42,3 +42,21 @@ The simplest way to get started is with [gitpod](https://gitpod.io/#https://gith
  - Server [localhost:3000](https://localhost:3000)
 
 ### Develop With Gitpod
+
+[Click this link](https://gitpod.io/#https://github.com/Shelob9/digitial-garden-builder)
+
+## Deploy With Github Pages
+
+The builder CLI is used to generate a static HTML export of each digital garden and deploy it to Github pages. 
+
+### No custom domain
+
+If there is no custom domain, the url will probably be `<username>.github.io/<repo-name>`. In this case the `USE_REPO_PREFIX` environment variable should be set to true, or CSS and JavaScript will not load correctly.
+
+### Subdomain
+
+If you want to host with a subdomain `garden.<your-domain>.pizza` 
+
+- Set a CNAME record in DNS settings for `<username>.github.io`
+- Set your domain in Github pages settings and/or commit a CNAME file to gh-pages branch, in docs directory with the domain name.
+- Wait about 15 minutes.
