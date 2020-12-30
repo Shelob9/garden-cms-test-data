@@ -1,9 +1,8 @@
 ---
-title: Using The Digtial Garden Builder
+title: Using The Digital Garden Builder 
 slug: usage
 ---
-
-## Writing Notes
+ ## Writing Notes
 
 markdown
   
