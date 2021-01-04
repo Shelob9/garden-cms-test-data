@@ -17,7 +17,6 @@ A digital garden is a public notebook you can use to grow your ideas from a seed
 - Collects tweets, links, quotes and embeds in notes
 - Publish notes, when they are grown.
   
-
 ## Plant Your Own Garden
 
 Almost ready.
