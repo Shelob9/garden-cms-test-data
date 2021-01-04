@@ -2,7 +2,7 @@
 title: Digital Garden Builder 
 slug: digital-garden-builder
 ---
-  A no code, multi-player digital garden builder.
+   A no code, multi-player digital garden builder.
 
 ## What Is A Digital Garden?
 
