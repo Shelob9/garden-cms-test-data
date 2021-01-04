@@ -6,7 +6,7 @@ slug: digital-garden-builder
 
 ## What Is A Digital Garden?
 
-A digital garden is a public notebook you can use to grow your ideas from a seed to a full grown essay. Learn more from the [[digital-gardens]] note. 
+A digital garden is a public notebook you can use to grow your ideas from a seed to a full grown essay. Learn more from the [[digital-gardens]] note.
 
 ## What Is The Digital Garden Builder?
 
